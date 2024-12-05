@@ -1,6 +1,7 @@
 .card {
+  background-color: #222222;
   width: 300px;
-  border: 1px solid #ddd;
+  border: 1px solid #222222;
   border-radius: 8px;
   overflow: hidden;
   box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
@@ -24,12 +25,12 @@
 .cardTitle {
   margin: 0;
   font-size: 1.5em;
-  color: #333;
+  color: #ffffff;
 }
 
 .cardDescription {
   margin: 10px 0;
-  color: #555;
+  color: #c9c9c9;
   font-size: 0.9em;
 }
 
@@ -41,9 +42,9 @@
 }
 
 .tag {
-  background-color: #eee;
+  background-color: #606060;
   border-radius: 4px;
   padding: 5px 10px;
   font-size: 0.8em;
-  color: #333;
+  color: #bfa75d;
 }
